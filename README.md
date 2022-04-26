@@ -1,2 +1,0 @@
-# fake-database
-fake db
